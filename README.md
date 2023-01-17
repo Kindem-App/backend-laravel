@@ -60,4 +60,4 @@ Pastikan konfigurasi database di `.env` sudah benar
 - [Laravel Requirements](https://laravel.com/docs/8.x/installation)
 
 ## Copyright
-2022 [Abdul Rahman Saleh](https://www.linkedin.com/in/abdul-rahman-saleh-714120217/) & [Yoga Meleniawan Pamungkas](https://www.linked.in/id/yogameleniawan)
+2022 [Abdul Rahman Saleh](https://www.linkedin.com/in/abdul-rahman-saleh-714120217/) & [Yoga Meleniawan Pamungkas](https://www.linkedin.com/in/yogameleniawan)
